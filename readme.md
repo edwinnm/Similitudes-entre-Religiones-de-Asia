@@ -31,10 +31,10 @@ Como entradas de este análisis se contará con el dataset de los textos sagrado
 ![Tres Cluster](/img/clusterkmeans3.png "Tres Cluster")
 
 #### Dos Cluster 
-![Dos Cluster](/img/cluster2.png "Dos Cluster")
+![Dos Cluster](/img/cluster2.PNG "Dos Cluster")
 
 #### Word Cloud 
-![Word Cloud](/img/wordCloud.png "Word Cloud")
+![Word Cloud](/img/wordCloud.PNG "Word Cloud")
 
 #### Map
-![Map](/img/map.png "Map")
+![Map](/img/map.PNG "Map")
